@@ -1,0 +1,84 @@
+DEBUG:root:2022-07-24 19:38:16,164: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:38:16,164: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:39:56,446: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:39:56,446: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:39:56,446: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:39:56,446: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:40:39,107: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:40:39,107: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:40:39,107: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:40:39,123: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:41:14,199: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:41:14,199: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:41:14,199: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 19:41:14,199:unhashable type: 'list'
+DEBUG:root:2022-07-24 19:43:19,175: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:43:19,175: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:43:19,175: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 19:43:19,175:unhashable type: 'list'
+DEBUG:root:2022-07-24 19:48:07,231: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:48:07,231: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:48:12,716: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:48:12,716: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:48:12,716: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 19:48:12,716:unhashable type: 'list'
+DEBUG:root:2022-07-24 19:48:17,397: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:48:17,397: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:48:17,397: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 19:48:17,397:unhashable type: 'list'
+DEBUG:root:2022-07-24 19:48:56,233: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:48:56,233: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:48:56,233: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 19:48:56,233:unhashable type: 'list'
+DEBUG:root:2022-07-24 19:49:11,268: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:49:11,268: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:49:11,268: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 19:49:11,268:unhashable type: 'list'
+DEBUG:root:2022-07-24 19:49:37,577: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:49:37,577: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:49:37,577: We are going to extract unique set from a given list. 
+DEBUG:root:2022-07-24 19:51:40,966: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:51:40,966: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:51:40,966: We are going to extract unique set from a given list. 
+DEBUG:root:2022-07-24 19:54:37,345: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:54:37,345: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:54:37,345: We are going to extract unique set from a given list. 
+DEBUG:root:2022-07-24 19:55:50,050: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:55:50,050: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:55:50,050: We are going to extract unique set from a given list. 
+DEBUG:root:2022-07-24 19:57:11,709: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:57:11,709: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:57:11,709: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 19:57:11,709:unhashable type: 'list'
+DEBUG:root:2022-07-24 19:58:44,445: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:58:44,445: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:58:44,445: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 19:58:44,445: Entered value is not a list
+DEBUG:root:2022-07-24 19:59:01,052: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 19:59:01,052: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 19:59:01,052: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 19:59:01,052:unhashable type: 'list'
+DEBUG:root:2022-07-24 20:05:04,072: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 20:05:04,072: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 20:05:04,072: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 20:05:04,072:unhashable type: 'list'
+DEBUG:root:2022-07-24 20:05:24,051: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 20:05:24,051: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 20:05:24,051: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 20:05:24,051:unhashable type: 'list'
+DEBUG:root:2022-07-24 20:13:05,532: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 20:13:05,532: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 20:13:05,532: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 20:13:05,532:unhashable type: 'list'
+DEBUG:root:2022-07-24 20:41:52,900: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 20:41:52,900: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 20:41:52,900: We are going to extract unique set from a given list. 
+ERROR:root:2022-07-24 20:41:52,900:unhashable type: 'list'
+DEBUG:root:2022-07-24 20:42:14,654: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 20:42:14,655: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 20:42:14,656: We are going to extract unique set from a given list. 
+INFO:root:2022-07-24 20:42:14,656: The resultant value is : {2, 3, 4, 5, 6, 7, 8}
+DEBUG:root:2022-07-24 20:43:22,585: We are going to extract tuple from a given list. 
+INFO:root:2022-07-24 20:43:22,585: The resultant value is : [{5, 4, 45, 23}]
+DEBUG:root:2022-07-24 20:43:22,585: We are going to extract unique set from a given list. 
+INFO:root:2022-07-24 20:43:22,585: The resultant value is : {2, 3, 4, 5, 6, 7, 8}

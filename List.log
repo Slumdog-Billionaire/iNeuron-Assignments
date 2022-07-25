@@ -1,0 +1,54 @@
+[DEBUG:2022-07-24 01:22:46,455:root: We are going to reverse the given list.
+[INFO:2022-07-24 01:22:46,455:root:The resultant list is : ['efg', 6, 5, 4, 'abc', 3, 2, 1]
+[DEBUG:2022-07-24 01:30:17,076:root: We are going to reverse the given list.
+[INFO:2022-07-24 01:30:17,076:root:The resultant list is : ['efg', 6, 5, 4, 'abc', 3, 2, 1]
+[DEBUG:2022-07-24 01:30:17,076:root: We are going to calculate the summation of the given list.
+[INFO:2022-07-24 01:30:17,076:root: The resultant list is : 55
+[DEBUG:2022-07-24 01:30:29,699:root: We are going to reverse the given list.
+[INFO:2022-07-24 01:30:29,699:root:The resultant list is : ['efg', 6, 5, 4, 'abc', 3, 2, 1]
+[DEBUG:2022-07-24 01:30:29,699:root: We are going to calculate the summation of the given list.
+[ERROR:2022-07-24 01:30:29,705:root:List contains non integer values. Please provide list containing only integers. 
+[ERROR:2022-07-24 01:30:29,705:root:unsupported operand type(s) for +: 'int' and 'str'
+[DEBUG:2022-07-24 01:30:59,116:root: We are going to reverse the given list.
+[INFO:2022-07-24 01:30:59,116:root:The resultant list is : ['efg', 6, 5, 4, 'abc', 3, 2, 1]
+[DEBUG:2022-07-24 01:30:59,120:root: We are going to calculate the summation of the given list.
+[INFO:2022-07-24 01:30:59,120:root: The resultant list is : 55
+[DEBUG:2022-07-24 01:44:16,215:root: We are going to reverse the given list.
+[INFO:2022-07-24 01:44:16,215:root:The resultant list is : ['efg', 6, 5, 4, 'abc', 3, 2, 1]
+[DEBUG:2022-07-24 01:44:16,215:root: We are going to calculate the summation of the given list.
+[INFO:2022-07-24 01:44:16,215:root: The resultant list is : 55
+[DEBUG:2022-07-24 01:44:16,215:root: We are going to extract all the lists from the given list. 
+[DEBUG:2022-07-24 01:44:16,215:root: The extracted lists are: [[5, 6, 7, 8]]
+[DEBUG:2022-07-24 01:44:16,215:root: The extracted lists are: [[5, 6, 7, 8], [9, 10, 11, 12]]
+[DEBUG:2022-07-24 02:12:29,332:root: We are going to reverse the given list.
+[INFO:2022-07-24 02:12:29,332:root:The resultant list is : ['efg', 6, 5, 4, 'abc', 3, 2, 1]
+[DEBUG:2022-07-24 02:12:29,332:root: We are going to calculate the summation of the given list.
+[INFO:2022-07-24 02:12:29,332:root: The resultant list is : 55
+[DEBUG:2022-07-24 02:12:29,332:root: We are going to extract all the lists from the given list. 
+[DEBUG:2022-07-24 02:12:29,332:root: The extracted lists are: [[5, 6, 7, 8]]
+[DEBUG:2022-07-24 02:12:29,332:root: The extracted lists are: [[5, 6, 7, 8], [9, 10, 11, 12]]
+[DEBUG:2022-07-24 02:14:21,990:root: We are going to reverse the given list.
+[INFO:2022-07-24 02:14:21,990:root:The resultant list is : ['efg', 6, 5, 4, 'abc', 3, 2, 1]
+[DEBUG:2022-07-24 02:14:21,990:root: We are going to calculate the summation of the given list.
+[INFO:2022-07-24 02:14:21,994:root: The resultant list is : 55
+[DEBUG:2022-07-24 02:14:21,994:root: We are going to extract all the lists from the given list. 
+[DEBUG:2022-07-24 02:14:21,994:root: The extracted lists are: [[5, 6, 7, 8]]
+[DEBUG:2022-07-24 02:14:21,994:root: The extracted lists are: [[5, 6, 7, 8], [9, 10, 11, 12]]
+[DEBUG:2022-07-24 02:14:34,563:root: We are going to reverse the given list.
+[INFO:2022-07-24 02:14:34,563:root:The resultant list is : ['efg', 6, 5, 4, 'abc', 3, 2, 1]
+[DEBUG:2022-07-24 02:14:34,563:root: We are going to calculate the summation of the given list.
+[INFO:2022-07-24 02:14:34,563:root: The resultant list is : 55
+[DEBUG:2022-07-24 02:14:34,563:root: We are going to extract all the lists from the given list. 
+[DEBUG:2022-07-24 02:14:34,563:root: The extracted lists are: [[5, 6, 7, 8]]
+[DEBUG:2022-07-24 02:14:34,563:root: The extracted lists are: [[5, 6, 7, 8], [9, 10, 11, 12]]
+[DEBUG:2022-07-24 02:14:34,563:root: We are going to extract required element from the list. 
+[DEBUG:2022-07-24 02:14:34,563:root: The extracted element from the list are : [4, 4, 4, 4]
+[DEBUG:2022-07-24 02:15:38,579:root: We are going to reverse the given list.
+[INFO:2022-07-24 02:15:38,579:root:The resultant list is : ['efg', 6, 5, 4, 'abc', 3, 2, 1]
+[DEBUG:2022-07-24 02:15:38,579:root: We are going to calculate the summation of the given list.
+[INFO:2022-07-24 02:15:38,579:root: The resultant list is : 55
+[DEBUG:2022-07-24 02:15:38,579:root: We are going to extract all the lists from the given list. 
+[DEBUG:2022-07-24 02:15:38,579:root: The extracted lists are: [[5, 6, 7, 8]]
+[DEBUG:2022-07-24 02:15:38,579:root: The extracted lists are: [[5, 6, 7, 8], [9, 10, 11, 12]]
+[DEBUG:2022-07-24 02:15:38,579:root: We are going to extract required element from the list. 
+[DEBUG:2022-07-24 02:15:38,579:root: The extracted element from the list are : [45]

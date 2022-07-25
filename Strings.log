@@ -1,0 +1,225 @@
+[INFO]:2022-07-23 14:35:10,695:root:We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 14:35:10,711:root:the extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 14:35:31,907:root:We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 14:35:31,907:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 14:58:51,932:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 14:58:51,932:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 16:50:43,063:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 16:50:43,063:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 16:50:43,070:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 16:50:43,070:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 16:51:45,924:root: We are about slice the given string in positive direction with a jump of 3
+[ERROR]:2022-07-23 16:51:45,925:root: Entered value is not a string. 
+[INFO]:2022-07-23 16:51:45,925:root: We are about to reverse the given string. 
+[ERROR]:2022-07-23 16:51:45,925:root: Entered value is not a string. 
+[INFO]:2022-07-23 16:56:58,797:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 16:56:58,798:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 16:56:58,798:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 16:56:58,798:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:24:59,705:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:24:59,706:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:24:59,706:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:24:59,706:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:25:18,198:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:25:18,199:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:25:18,199:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:25:18,199:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:25:18,199:root: We are about to convert str in to lower case and then split it
+[ERROR]:2022-07-23 17:25:18,199:root:can only concatenate str (not "list") to str
+[INFO]:2022-07-23 17:26:41,456:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:26:41,456:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:26:41,457:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:26:41,457:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:26:41,457:root: We are about to convert str in to lower case and then split it
+[ERROR]:2022-07-23 17:26:41,457:root:can only concatenate str (not "list") to str
+[INFO]:2022-07-23 17:27:46,057:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:27:46,057:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:27:46,057:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:27:46,057:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:27:46,058:root: We are about to convert str in to lower case and then split it
+[ERROR]:2022-07-23 17:27:46,058:root:can only concatenate str (not "list") to str
+[INFO]:2022-07-23 17:28:50,786:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:28:50,786:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:28:50,786:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:28:50,786:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:28:50,786:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 17:28:50,786:root: The extracted value is : ['THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION']
+[INFO]:2022-07-23 17:29:34,956:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:29:34,957:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:29:34,957:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:29:34,957:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:29:34,957:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 17:29:34,957:root: The extracted value is : ['THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION']
+[INFO]:2022-07-23 17:39:55,511:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:39:55,512:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:39:55,512:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:39:55,512:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:39:55,512:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 17:39:55,512:root: The extracted value is : ['THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION']
+[ERROR]:2022-07-23 17:39:55,512:root:empty separator
+[DEBUG]:2022-07-23 17:39:55,512:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 17:39:55,512:root: The extracted value is : the rate of change of velocity is called as acceleration
+[INFO]:2022-07-23 17:40:10,233:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:40:10,233:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:40:10,234:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:40:10,234:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:40:10,234:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 17:40:10,234:root: The extracted value is : ['THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION']
+[DEBUG]:2022-07-23 17:40:10,234:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 17:40:10,234:root: The extracted value is : the rate of change of velocity is called as acceleration
+[INFO]:2022-07-23 17:40:17,601:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:40:17,601:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:40:17,601:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:40:17,601:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:40:17,601:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 17:40:17,601:root: The extracted value is : ['THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION']
+[DEBUG]:2022-07-23 17:40:17,601:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 17:40:17,601:root: The extracted value is : the rate of change of velocity is called as acceleration
+[INFO]:2022-07-23 17:46:01,747:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:46:01,748:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:46:01,748:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:46:01,748:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:46:01,748:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 17:46:01,748:root: The extracted value is : ['THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION']
+[DEBUG]:2022-07-23 17:46:01,748:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 17:46:01,748:root: The extracted value is : the rate of change of velocity is called as acceleration
+[DEBUG]:2022-07-23 17:46:01,748:root: We are capitalizing the string. 
+[DEBUG]:2022-07-23 17:46:01,748:root: The extracted value is : The rate of change of velocity is called as acceleration
+[INFO]:2022-07-23 17:59:51,752:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 17:59:51,752:root: The extracted value is : T toCn  li  ldsclao
+[INFO]:2022-07-23 17:59:51,752:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 17:59:51,752:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR ehT
+[INFO]:2022-07-23 17:59:51,752:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 17:59:51,752:root: The extracted value is : ['THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION']
+[DEBUG]:2022-07-23 17:59:51,752:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 17:59:51,752:root: The extracted value is : the rate of change of velocity is called as acceleration
+[DEBUG]:2022-07-23 17:59:51,752:root: We are capitalizing the string. 
+[DEBUG]:2022-07-23 17:59:51,752:root: The resultant value is : The rate of change of velocity is called as acceleration
+[INFO]:2022-07-23 17:59:51,752:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 17:59:51,752:root: The resultant value is : The Rate of Change of Velocity is called as Acceleration
+[INFO]:2022-07-23 18:00:33,426:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 18:00:33,426:root: The extracted value is : t toCn  li  ldsclao
+[INFO]:2022-07-23 18:00:33,426:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 18:00:33,426:root: The extracted value is : noitareleccA sa dellac si yticoleV fo egnahC fo etaR eht
+[INFO]:2022-07-23 18:00:33,426:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 18:00:33,426:root: The extracted value is : ['THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION']
+[DEBUG]:2022-07-23 18:00:33,426:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 18:00:33,426:root: The extracted value is : the rate of change of velocity is called as acceleration
+[DEBUG]:2022-07-23 18:00:33,426:root: We are capitalizing the string. 
+[DEBUG]:2022-07-23 18:00:33,426:root: The resultant value is : The rate of change of velocity is called as acceleration
+[INFO]:2022-07-23 18:00:33,426:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 18:00:33,426:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration
+[INFO]:2022-07-23 18:24:06,812:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 18:24:06,812:root: The extracted value is :   t toCn  li  ldsclao  
+[INFO]:2022-07-23 18:24:06,812:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 18:24:06,812:root: The extracted value is :       noitareleccA sa dellac si yticoleV fo egnahC fo etaR eht      
+[INFO]:2022-07-23 18:24:06,812:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 18:24:06,812:root: The extracted value is : ['', '', '', '', '', '', 'THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION', '', '', '', '', '', '']
+[DEBUG]:2022-07-23 18:24:06,812:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 18:24:06,812:root: The extracted value is :       the rate of change of velocity is called as acceleration      
+[DEBUG]:2022-07-23 18:24:06,817:root: We are capitalizing the string. 
+[DEBUG]:2022-07-23 18:24:06,817:root: The resultant value is :       the rate of change of velocity is called as acceleration      
+[INFO]:2022-07-23 18:24:06,817:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 18:24:06,817:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration
+[INFO]:2022-07-23 18:39:31,002:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 18:39:31,002:root: The extracted value is :   t toCn  li  ldsclao  
+[INFO]:2022-07-23 18:39:31,002:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 18:39:31,002:root: The extracted value is :       noitareleccA sa dellac si yticoleV fo egnahC fo etaR eht      
+[INFO]:2022-07-23 18:39:31,002:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 18:39:31,002:root: The extracted value is : ['', '', '', '', '', '', 'THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION', '', '', '', '', '', '']
+[DEBUG]:2022-07-23 18:39:31,002:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 18:39:31,002:root: The extracted value is :       the rate of change of velocity is called as acceleration      
+[DEBUG]:2022-07-23 18:39:31,002:root: We are capitalizing the string. 
+[DEBUG]:2022-07-23 18:39:31,002:root: The resultant value is :       the rate of change of velocity is called as acceleration      
+[INFO]:2022-07-23 18:39:31,002:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 18:39:31,002:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration
+[INFO]:2022-07-23 18:39:31,002:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 18:39:31,002:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration      
+[INFO]:2022-07-23 18:51:31,312:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 18:51:31,312:root: The extracted value is :   t toCn  li  ldsclao  
+[INFO]:2022-07-23 18:51:31,312:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 18:51:31,312:root: The extracted value is :       noitareleccA sa dellac si yticoleV fo egnahC fo etaR eht      
+[INFO]:2022-07-23 18:51:31,312:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 18:51:31,312:root: The extracted value is : ['', '', '', '', '', '', 'THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION', '', '', '', '', '', '']
+[DEBUG]:2022-07-23 18:51:31,312:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 18:51:31,312:root: The extracted value is :       the rate of change of velocity is called as acceleration      
+[DEBUG]:2022-07-23 18:51:31,312:root: We are capitalizing the string. 
+[DEBUG]:2022-07-23 18:51:31,312:root: The resultant value is :       the rate of change of velocity is called as acceleration      
+[INFO]:2022-07-23 18:51:31,312:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 18:51:31,312:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration
+[INFO]:2022-07-23 18:51:31,312:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 18:51:31,312:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration      
+[INFO]:2022-07-23 18:51:31,312:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 18:51:31,312:root: The resultant value is :       the Rate of Change of Velocity is called as Acceleration
+[INFO]:2022-07-23 21:32:02,363:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 21:32:02,363:root: The extracted value is :   t toCn  li  ldsclao  
+[INFO]:2022-07-23 21:32:02,363:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 21:32:02,363:root: The extracted value is :       noitareleccA sa dellac si yticoleV fo egnahC fo etaR eht      
+[INFO]:2022-07-23 21:32:02,363:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 21:32:02,363:root: The extracted value is : ['', '', '', '', '', '', 'THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION', '', '', '', '', '', '']
+[DEBUG]:2022-07-23 21:32:02,363:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 21:32:02,363:root: The extracted value is :       the rate of change of velocity is called as acceleration      
+[DEBUG]:2022-07-23 21:32:02,363:root: We are capitalizing the string. 
+[DEBUG]:2022-07-23 21:32:02,363:root: The resultant value is :       the rate of change of velocity is called as acceleration      
+[INFO]:2022-07-23 21:32:02,364:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 21:32:02,364:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration
+[INFO]:2022-07-23 21:32:02,364:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 21:32:02,364:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration      
+[INFO]:2022-07-23 21:32:02,364:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 21:32:02,364:root: The resultant value is :       the Rate of Change of Velocity is called as Acceleration
+[DEBUG]:2022-07-23 21:32:02,364:root: We are going to use Center function on given string. 
+[ERROR]:2022-07-23 21:32:02,364:root:center expected at least 1 argument, got 0
+[INFO]:2022-07-23 21:44:25,302:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 21:44:25,302:root: The extracted value is :   t toCn  li  ldsclao  
+[INFO]:2022-07-23 21:44:25,302:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 21:44:25,302:root: The extracted value is :       noitareleccA sa dellac si yticoleV fo egnahC fo etaR eht      
+[INFO]:2022-07-23 21:44:25,303:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 21:44:25,303:root: The extracted value is : ['', '', '', '', '', '', 'THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION', '', '', '', '', '', '']
+[DEBUG]:2022-07-23 21:44:25,303:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 21:44:25,303:root: The extracted value is :       the rate of change of velocity is called as acceleration      
+[DEBUG]:2022-07-23 21:44:25,303:root: We are capitalizing the string. 
+[DEBUG]:2022-07-23 21:44:25,303:root: The resultant value is :       the rate of change of velocity is called as acceleration      
+[INFO]:2022-07-23 21:44:25,303:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 21:44:25,303:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration
+[INFO]:2022-07-23 21:44:25,304:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 21:44:25,304:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration      
+[INFO]:2022-07-23 21:44:25,304:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 21:44:25,304:root: The resultant value is :       the Rate of Change of Velocity is called as Acceleration
+[DEBUG]:2022-07-23 21:44:25,304:root: We are going to use Center function on given string. 
+[DEBUG]:2022-07-23 21:44:25,304:root:The resultant value is :       the Rate of Change of Velocity is called as Acceleration      
+[INFO]:2022-07-23 21:49:32,833:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-23 21:49:32,833:root: The extracted value is :   t toCn  li  ldsclao  
+[INFO]:2022-07-23 21:49:32,833:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-23 21:49:32,833:root: The extracted value is :       noitareleccA sa dellac si yticoleV fo egnahC fo etaR eht      
+[INFO]:2022-07-23 21:49:32,834:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-23 21:49:32,834:root: The extracted value is : ['', '', '', '', '', '', 'THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION', '', '', '', '', '', '']
+[DEBUG]:2022-07-23 21:49:32,834:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-23 21:49:32,834:root: The extracted value is :       the rate of change of velocity is called as acceleration      
+[DEBUG]:2022-07-23 21:49:32,834:root: We are capitalizing the string. 
+[DEBUG]:2022-07-23 21:49:32,834:root: The resultant value is :       the rate of change of velocity is called as acceleration      
+[INFO]:2022-07-23 21:49:32,834:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 21:49:32,834:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration
+[INFO]:2022-07-23 21:49:32,834:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 21:49:32,835:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration      
+[INFO]:2022-07-23 21:49:32,835:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-23 21:49:32,835:root: The resultant value is :       the Rate of Change of Velocity is called as Acceleration
+[DEBUG]:2022-07-23 21:49:32,835:root: We are going to use Center function on given string. 
+[DEBUG]:2022-07-23 21:49:32,835:root:The resultant value is :       the Rate of Change of Velocity is called as Acceleration      
+[INFO]:2022-07-24 00:18:03,726:root: We are about slice the given string in positive direction with a jump of 3
+[DEBUG]:2022-07-24 00:18:03,726:root: The extracted value is :   t toCn  li  ldsclao  
+[INFO]:2022-07-24 00:18:03,726:root: We are about to reverse the given string. 
+[DEBUG]:2022-07-24 00:18:03,726:root: The extracted value is :       noitareleccA sa dellac si yticoleV fo egnahC fo etaR eht      
+[INFO]:2022-07-24 00:18:03,726:root: We are about to convert str in to lower case and then split it
+[DEBUG]:2022-07-24 00:18:03,726:root: The extracted value is : ['', '', '', '', '', '', 'THE', 'RATE', 'OF', 'CHANGE', 'OF', 'VELOCITY', 'IS', 'CALLED', 'AS', 'ACCELERATION', '', '', '', '', '', '']
+[DEBUG]:2022-07-24 00:18:03,726:root: We are converting the string into lower case. 
+[DEBUG]:2022-07-24 00:18:03,726:root: The extracted value is :       the rate of change of velocity is called as acceleration      
+[DEBUG]:2022-07-24 00:18:03,726:root: We are capitalizing the string. 
+[DEBUG]:2022-07-24 00:18:03,726:root: The resultant value is :       the rate of change of velocity is called as acceleration      
+[INFO]:2022-07-24 00:18:03,726:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-24 00:18:03,726:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration
+[INFO]:2022-07-24 00:18:03,726:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-24 00:18:03,726:root: The resultant value is : the Rate of Change of Velocity is called as Acceleration      
+[INFO]:2022-07-24 00:18:03,726:root: We are conducting the fucntion of strip on the given string.
+[DEBUG]:2022-07-24 00:18:03,726:root: The resultant value is :       the Rate of Change of Velocity is called as Acceleration
+[DEBUG]:2022-07-24 00:18:03,726:root: We are going to use Center function on given string. 
+[DEBUG]:2022-07-24 00:18:03,726:root:The resultant value is : *****************   Just Do It   *****************

@@ -1,0 +1,8 @@
+DEBUG:2022-07-24 19:02:47,679:root: We are going to extract tuples from a list
+DEBUG:2022-07-24 19:02:47,679:root: The resultant value is : [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+DEBUG:2022-07-24 19:09:46,036:root: We are going to extract tuples from a list
+DEBUG:2022-07-24 19:09:46,036:root: The resultant value is : [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+DEBUG:2022-07-24 19:15:29,541:root: We are going to extract tuples from a list
+DEBUG:2022-07-24 19:15:29,541:root: The resultant value is : [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+DEBUG:2022-07-24 19:15:29,541:root: We are going to extract required elements from the variable.
+INFO:2022-07-24 19:15:29,541:root: The resultant value is : (4, 5, 6, 7, 8)

@@ -1,0 +1,8 @@
+INFO:2022-07-25 12:10:32,941:root: We are going to extract dict from a given list. 
+INFO:2022-07-25 12:10:32,949:root: The resultant value is : [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO:2022-07-25 12:27:25,823:root: We are going to extract dict from a given list. 
+INFO:2022-07-25 12:27:25,825:root: The resultant value is : [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO:2022-07-25 12:29:34,416:root: We are going to extract dict from a given list. 
+INFO:2022-07-25 12:29:34,421:root: The resultant value is : [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}]
+INFO:2022-07-25 12:29:34,421:root: We are going to extract elements from a given dict. 
+DEBUG:2022-07-25 12:29:34,421:root: The resultant value is : dict_items([('anirudh', 27), ('Vishal', 26), ('iNeuron', 'Data Science')])
